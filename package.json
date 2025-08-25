@@ -1,0 +1,19 @@
+{
+  "name": "recruitment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "npm": ">=10.5.0 <12.0.0",
+    "node": ">=22.14.0 <23.0.0"
+  },
+  "scripts": {
+    "test": "node test/setup.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^11.0.3"
+  }
+}
